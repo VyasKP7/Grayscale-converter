@@ -24,6 +24,6 @@ Using **./Image average giant-picture.ppm output.pgm**
 
 Would convert giant-picture.ppm:
 
-<img src="./Pictures/giantPPM.png" width="260" height="330"></br></br>
+<img src="./Pictures/GiantPPM.png" width="260" height="330"></br></br>
 Into output.pgm :</br></br>
-<img src="./Pictures/giantPGM.png" width="260" height="330">
+<img src="./Pictures/GiantPGM.png" width="260" height="330">
