@@ -16,5 +16,14 @@ Acceptable methods are red, green, blue, average, lightness and luminosity.
 
 
 
-  The ppm file must exist in the working directory.</br>
-  If the pgm file does not exist, it will be created.
+The ppm file must exist in the working directory.</br>
+If the pgm file does not exist, it will be created.
+
+
+Using **./Image average giant-picture.ppm output.pgm**
+
+Would convert giant-picture.ppm:
+
+<img src="./Pictures/giantPPM.png" width="260" height="330"></br></br>
+Into output.pgm :</br></br>
+<img src="./Pictures/giantPGM.png" width="260" height="330">
